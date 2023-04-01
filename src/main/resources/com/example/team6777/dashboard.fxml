@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Box?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="800.0" style="-fx-background-color: purple;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Box depth="100" height="300.0" layoutX="527.0" layoutY="351.0" style="-fx-background-color: red;" width="500.0" />
+      <Button layoutX="295.0" layoutY="278.0" mnemonicParsing="false" prefHeight="45.0" prefWidth="125.0" style="-fx-background-color: purple;" text="Deposite " textFill="WHITE" />
+      <Button layoutX="448.0" layoutY="278.0" mnemonicParsing="false" prefHeight="45.0" prefWidth="137.0" style="-fx-background-color: purple;" text="Change Password" textFill="WHITE" />
+      <Button layoutX="609.0" layoutY="278.0" mnemonicParsing="false" prefHeight="45.0" prefWidth="125.0" style="-fx-background-color: purple;" text="Transfer Balance" textFill="WHITE" />
+      <Button layoutX="295.0" layoutY="400.0" mnemonicParsing="false" prefHeight="45.0" prefWidth="131.0" style="-fx-background-color: purple;" text="Withdraw" textFill="WHITE" />
+      <Button layoutX="448.0" layoutY="400.0" mnemonicParsing="false" prefHeight="45.0" prefWidth="131.0" style="-fx-background-color: purple;" text="Balance Check" textFill="WHITE" />
+      <Button layoutX="612.0" layoutY="400.0" mnemonicParsing="false" prefHeight="45.0" prefWidth="118.0" style="-fx-background-color: purple;" text="Information" textFill="WHITE" />
+      <Text fill="WHITE" layoutX="194.0" layoutY="57.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Welcome to Bank6777">
+         <font>
+            <Font name="System Bold" size="40.0" />
+         </font>
+      </Text>
+   </children>
+</AnchorPane>

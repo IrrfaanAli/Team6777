@@ -3,6 +3,7 @@ module com.example.team6777 {
     requires javafx.fxml;
     requires java.sql;
     requires mysql.connector.j;
+    requires javafx.graphics;
 
 
     opens com.example.team6777 to javafx.fxml;
